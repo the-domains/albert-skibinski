@@ -1,7 +1,7 @@
 name: Albert Skibinski
 favicon: null
-layout_spectrum: 0.3893187844660133
-typography_spectrum: 0.0803213503677398
+layout_spectrum: 0.90236
+typography_spectrum: 0.49752
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.5584981942083687
-  lightness: 0.2542254882864654
-  saturation: 0.3611001456156373
-  rhythmicContrast: 0.4373623642604798
+  lightness: 0.75
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
